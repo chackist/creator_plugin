@@ -1,0 +1,54 @@
+{
+  "name": "learn",
+  "version": "0.0.1",
+  "description": "this is a demo",
+  "author": "nobody",
+  "main": "main.js",
+  "scene-script": "logic/scene_walker.js",
+  "gizmos": {
+    "CustomGizmo": "packages://learn/logic/custom_gizmo.js",
+    "CustomGizmo2": "packages://learn/logic/custom_gizmo2.js"
+  },
+  "runtime-resource":{
+    "path":"res",
+    "name":"res"
+  },
+  "reload": {
+    "ignore": ["res/*"]
+  },
+  "main-menu": {
+    "学习/ipc/面板": {
+      "message": "learn:ipc_panel"
+    },
+    "学习/ipc/主进程发送消息": {
+      "message": "learn:ipc_main_sendto_panel"
+    },
+    "学习/ipc/主进程发送消息(面板动态增加事件监听)": {
+      "message": "learn:ipc_main_sendto_panel_2"
+    },
+
+    "学习/场景脚本/节点数": {
+      "message": "learn:scene_get_canvas_children"
+    },
+    "学习/场景脚本/变更属性": {
+      "message": "learn:scene_show_hide_children"
+    },
+    "学习/面板2": {
+      "message": "learn:second_panel"
+    }
+  },
+  "panel": {
+    "main": "panel/panel.js",
+    "type": "dockable",
+    "title": "ipc test",
+    "width": 400,
+    "height": 300
+  },
+  "panel.2": {
+    "main": "panel/panel.2.js",
+    "type": "dockable",
+    "title": "panel.2",
+    "width": 400,
+    "height": 300
+  }
+}

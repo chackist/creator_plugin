@@ -1,0 +1,203 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": 0,
+      "y": 23,
+      "width": 1680,
+      "height": 927,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 292,
+                "type": "panel",
+                "width": 247
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets",
+                  "cloud-function"
+                ],
+                "height": 551,
+                "type": "panel",
+                "width": 247
+              }
+            ],
+            "height": 846,
+            "type": "dock-v",
+            "width": 247
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "active": 0,
+                    "children": [
+                      "scene"
+                    ],
+                    "height": 446,
+                    "type": "panel",
+                    "width": 617.984375
+                  },
+                  {
+                    "active": 0,
+                    "children": [
+                      "node-library"
+                    ],
+                    "height": 446,
+                    "type": "panel",
+                    "width": 407
+                  }
+                ],
+                "height": 446,
+                "type": "dock-h",
+                "width": 1027.984375
+              },
+              {
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline",
+                  "game-window"
+                ],
+                "height": 397,
+                "type": "panel",
+                "width": 1027.984375
+              }
+            ],
+            "height": 846,
+            "type": "dock-v",
+            "width": 1027.984375
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector",
+              "cocos-services"
+            ],
+            "height": 846,
+            "type": "panel",
+            "width": 399
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "hierarchy",
+        "assets",
+        "cloud-function",
+        "scene",
+        "node-library",
+        "console",
+        "timeline",
+        "game-window",
+        "inspector",
+        "cocos-services"
+      ]
+    },
+    "window-1618802268464": {
+      "main": false,
+      "url": "unpack://static/window.html",
+      "windowType": "dockable",
+      "x": 187,
+      "y": 131,
+      "width": 400,
+      "height": 322,
+      "layout": {
+        "children": [
+          {
+            "active": 0,
+            "children": [
+              "learn"
+            ],
+            "height": 300,
+            "type": "panel",
+            "width": 400
+          }
+        ],
+        "type": "dock-v"
+      },
+      "panels": [
+        "learn"
+      ]
+    }
+  },
+  "panels": {
+    "shuxing": {
+      "x": 640,
+      "y": 302,
+      "width": 400,
+      "height": 322
+    },
+    "ui-kit-preview-extra": {
+      "x": 440,
+      "y": 152,
+      "width": 800,
+      "height": 622
+    },
+    "ui-kit-preview": {
+      "x": 440,
+      "y": 152,
+      "width": 800,
+      "height": 622
+    },
+    "project-settings": {
+      "x": 560,
+      "y": 202,
+      "width": 584,
+      "height": 548
+    },
+    "learn": {
+      "x": 187,
+      "y": 131,
+      "width": 400,
+      "height": 322
+    },
+    "store": {
+      "x": 234,
+      "y": 57,
+      "width": 1000,
+      "height": 722
+    },
+    "package-manager": {
+      "x": 590,
+      "y": 52,
+      "width": 504,
+      "height": 822
+    },
+    "encrypt-tool": {
+      "x": 640,
+      "y": 152,
+      "width": 400,
+      "height": 622
+    },
+    "super-gizmo": {
+      "x": 476,
+      "y": 23,
+      "width": 564,
+      "height": 927
+    },
+    "learn.2": {
+      "x": 640,
+      "y": 302,
+      "width": 400,
+      "height": 322
+    }
+  },
+  "panelLabelWidth": {
+    "inspector": null,
+    "project-settings": null,
+    "super-gizmo": null
+  }
+}

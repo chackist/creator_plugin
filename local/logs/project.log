@@ -1,0 +1,116 @@
+2021-04-19T03:17:05.372Z - normal: Load ~/.CocosCreator/settings.json
+2021-04-19T03:17:05.420Z - normal: Initializing Asset Database
+2021-04-19T03:17:05.421Z - normal: checking language setting...
+2021-04-19T03:17:05.422Z - normal: Language: zh
+2021-04-19T03:17:06.378Z - success: protocol editor-framework registered
+2021-04-19T03:17:06.378Z - success: protocol app registered
+2021-04-19T03:17:06.378Z - success: protocol theme registered
+2021-04-19T03:17:06.379Z - success: protocol packages registered
+2021-04-19T03:17:06.379Z - success: protocol uuid registerred
+2021-04-19T03:17:06.379Z - success: protocol db registerred
+2021-04-19T03:17:06.379Z - success: protocol thumbnail registerred
+2021-04-19T03:17:06.379Z - success: protocol unpack registerred
+2021-04-19T03:17:06.379Z - success: protocol disable-commonjs registerred
+2021-04-19T03:17:06.791Z - normal: connected!
+2021-04-19T03:17:06.792Z - normal: Check project /Users/daye/Desktop/zm/creator_plugin
+2021-04-19T03:17:06.794Z - normal: Initializing project /Users/daye/Desktop/zm/creator_plugin
+2021-04-19T03:17:07.029Z - success: adapters loaded
+2021-04-19T03:17:07.034Z - success: asset-db-debugger loaded
+2021-04-19T03:17:07.126Z - success: fb-audience-network loaded
+2021-04-19T03:17:07.164Z - success: fb-live-stream loaded
+2021-04-19T03:17:07.167Z - success: google-play-instant loaded
+2021-04-19T03:17:07.169Z - success: jsb-adapter loaded
+2021-04-19T03:17:07.174Z - success: package-manager loaded
+2021-04-19T03:17:07.194Z - success: runtime-adapters loaded
+2021-04-19T03:17:07.198Z - success: runtime-dev-tools loaded
+2021-04-19T03:17:07.205Z - success: sdkbox loaded
+2021-04-19T03:17:07.210Z - success: ui-kit-preview-extra loaded
+2021-04-19T03:17:07.216Z - success: ui-kit-preview loaded
+2021-04-19T03:17:07.295Z - success: alipay-minigame loaded
+2021-04-19T03:17:07.354Z - success: assets loaded
+2021-04-19T03:17:07.356Z - success: baidugame-opendata loaded
+2021-04-19T03:17:07.358Z - success: baidugame loaded
+2021-04-19T03:17:07.362Z - success: builder loaded
+2021-04-19T03:17:07.368Z - success: cloud-function loaded
+2021-04-19T03:17:07.502Z - success: cocos-services loaded
+2021-04-19T03:17:07.507Z - success: console loaded
+2021-04-19T03:17:07.509Z - success: curve-editor loaded
+2021-04-19T03:17:07.519Z - success: fb-instant-games loaded
+2021-04-19T03:17:07.521Z - success: game-window loaded
+2021-04-19T03:17:07.522Z - success: google-instant-games loaded
+2021-04-19T03:17:07.525Z - success: hierarchy loaded
+2021-04-19T03:17:07.529Z - success: huawei-runtime loaded
+2021-04-19T03:17:07.532Z - success: inspector loaded
+2021-04-19T03:17:07.553Z - success: cpk-publish loaded
+2021-04-19T03:17:07.553Z - success: keystore loaded
+2021-04-19T03:17:07.564Z - success: node-library loaded
+2021-04-19T03:17:07.564Z - success: open-recent-items loaded
+2021-04-19T03:17:07.567Z - success: oppo-runtime loaded
+2021-04-19T03:17:07.570Z - success: package-asset loaded
+2021-04-19T03:17:07.571Z - success: preferences loaded
+2021-04-19T03:17:07.575Z - success: project-importer loaded
+2021-04-19T03:17:07.577Z - success: project-settings loaded
+2021-04-19T03:17:07.596Z - success: qtt-runtime loaded
+2021-04-19T03:17:07.599Z - success: scene loaded
+2021-04-19T03:17:07.600Z - success: simulator-debugger loaded
+2021-04-19T03:17:07.600Z - success: sprite-editor loaded
+2021-04-19T03:17:07.662Z - success: store loaded
+2021-04-19T03:17:07.666Z - success: timeline loaded
+2021-04-19T03:17:07.672Z - success: vivo-runtime loaded
+2021-04-19T03:17:07.675Z - success: wechatgame-opendata loaded
+2021-04-19T03:17:07.679Z - success: wechatgame loaded
+2021-04-19T03:17:07.682Z - success: xiaomi-runtime loaded
+2021-04-19T03:17:07.988Z - success: im-plugin loaded
+2021-04-19T03:17:07.999Z - normal: main isMainProcess true
+2021-04-19T03:17:08.001Z - success: preview server running at http://localhost:7456
+2021-04-19T03:17:08.003Z - success: learn loaded
+2021-04-19T03:17:09.113Z - normal: Initializing Cocos2d
+2021-04-19T03:17:09.833Z - normal: Initializing engine extends
+2021-04-19T03:17:10.736Z - info: Cocos Service load base data!
+2021-04-19T03:17:10.764Z - normal: Loading packages
+2021-04-19T03:17:10.767Z - normal: Watching packages
+2021-04-19T03:17:10.852Z - normal: Run Application
+2021-04-19T03:17:29.125Z - normal: ipc panel vue created
+2021-04-19T03:17:29.132Z - normal: panel isMainProcess false
+2021-04-19T03:17:37.085Z - success: learn unloaded
+2021-04-19T03:17:37.186Z - success: learn loaded
+2021-04-19T03:17:37.247Z - success: learn unloaded
+2021-04-19T03:17:37.332Z - success: learn loaded
+2021-04-19T03:17:37.516Z - success: learn unloaded
+2021-04-19T03:17:37.603Z - success: learn loaded
+2021-04-19T03:17:37.873Z - success: learn unloaded
+2021-04-19T03:17:37.964Z - success: learn loaded
+2021-04-19T03:17:38.043Z - success: learn unloaded
+2021-04-19T03:17:38.126Z - success: learn loaded
+2021-04-19T03:17:38.541Z - success: learn unloaded
+2021-04-19T03:17:38.628Z - success: learn loaded
+2021-04-19T03:17:45.241Z - normal: scene:saved
+2021-04-19T03:17:49.094Z - normal: ipc panel vue created
+2021-04-19T03:17:50.031Z - normal: ipc_main_recv: i am panel1
+2021-04-19T03:17:50.032Z - normal: learn:ipc_main_electron_recv
+2021-04-19T05:44:40.629Z - success: learn unloaded
+2021-04-19T05:44:40.740Z - success: learn loaded
+2021-04-19T05:44:40.791Z - success: learn unloaded
+2021-04-19T05:44:40.873Z - success: learn loaded
+2021-04-19T05:44:40.924Z - success: learn unloaded
+2021-04-19T05:44:41.011Z - success: learn loaded
+2021-04-19T05:44:41.122Z - success: learn unloaded
+2021-04-19T05:44:41.223Z - success: learn loaded
+2021-04-19T05:44:55.417Z - normal: scene:saved
+2021-04-19T05:45:04.789Z - normal: scene:saved
+2021-04-19T05:45:10.821Z - success: learn unloaded
+2021-04-19T05:45:10.907Z - success: learn loaded
+2021-04-19T07:50:49.048Z - normal: reply from panel { Error: ipc failed to send, panel not found. panel: learn, message: ipc_panel_recv_by_electron
+    at Object.e.sendToPanel (/Applications/CocosCreator/Creator/2.4.0/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/ipc.js:1:2359)
+    at Object.ipc_main_sendto_panel_2 (/Users/daye/Desktop/zm/creator_plugin/packages/learn/main.js:30:18)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at b (/Applications/CocosCreator/Creator/2.4.0/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/ipc.js:1:1126)
+    at e.sendToMain (/Applications/CocosCreator/Creator/2.4.0/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/ipc.js:1:1536)
+    at Immediate._onImmediate (/Applications/CocosCreator/Creator/2.4.0/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/menu.js:1:5458)
+    at processImmediate (internal/timers.js:443:21)
+    at process.topLevelDomainCallback (domain.js:124:23)
+  code: 'ENOPANEL',
+  ipc: 'ipc_panel_recv_by_electron',
+  panelID: 'learn' } undefined
+2021-04-19T08:05:05.004Z - success: learn unloaded
